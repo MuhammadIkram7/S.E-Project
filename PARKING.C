@@ -1,4 +1,4 @@
-/* Waqas , Qavee, Ikram And Amardas
+/* Waqas 105, Qavee 06, Ikram 63 And Amardas 22 */
 
 #include<stdio.h>
 #include<conio.h>
